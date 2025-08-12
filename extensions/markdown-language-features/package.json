@@ -786,7 +786,7 @@
     "@vscode/markdown-it-katex": "^1.1.1",
     "lodash.throttle": "^4.1.1",
     "vscode-languageserver-types": "^3.17.2",
-    "vscode-markdown-languageservice": "^0.3.0-alpha.3"
+    "vscode-markdown-languageservice": "^0.4.0"
   },
   "repository": {
     "type": "git",
